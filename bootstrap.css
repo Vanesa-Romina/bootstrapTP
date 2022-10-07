@@ -1,0 +1,105 @@
+
+  #navbarNav {
+    justify-content: right;
+  
+  }
+  
+  
+  .navbar .navbar-collapse {
+    text-align: center;
+  }
+  
+  
+  .imagen {
+    width: 55%;
+    margin-left: 50px;
+    height: 50px;
+  }
+  #lulu{
+    height: 450px;
+    width: 800px;;
+  }
+  
+  #imagenText {
+    font-size: 2em;
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+    background-color: #353a40;
+  }
+
+#opaco {
+  filter: brightness(50%);
+}
+body {
+  margin-left: 115px;
+  margin-right: 115px;
+}
+
+nav {
+  margin-left: 115px;
+  margin-right: 115px;
+  
+}
+
+.containOctubre {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+background-color: #353a40;
+}
+
+.textgreen {
+  color: rgb(29, 154, 29);
+}
+
+#btngreen{
+  background-color:  rgb(60, 215, 60);
+  color: white;
+}
+
+.bsas{
+ 
+ font-size: 15px;
+ margin-left: 150px;
+ color: beige;
+}
+
+.img {
+ width: 650px;
+}
+
+#enviar{
+  background-color: rgb(133, 194, 41);
+  border: none;
+  border-radius: 6px;
+}
+
+.espacio {
+  margin-right: 20px;
+}
+
+.form-label{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+#footer {
+ background-color: #1a506e; 
+
+}
+
+.lineapuntos {
+  border-bottom:1px dotted #9999CC;
+  text-decoration:none;
+}
+
+
+
+
+
+
+
+
